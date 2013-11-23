@@ -5,6 +5,7 @@ import java.util.Random;
 import com.luciofranco.game.entity.mob.Player;
 import com.luciofranco.game.level.tile.Tile;
 
+@SuppressWarnings("unused")
 public class Screen {
 
 	public int width;
